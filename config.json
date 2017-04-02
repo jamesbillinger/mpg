@@ -1,0 +1,12 @@
+{
+  "port": "3000",
+  "proxyPort": "3001",
+  "firebase": {
+    "apiKey": "AIzaSyChOuP2KBNQ32m2aBSE5yN5lcAxpAyTIQU",
+    "authDomain": "mpgt-42d08.firebaseapp.com",
+    "databaseURL": "https://mpgt-42d08.firebaseio.com",
+    "projectId": "mpgt-42d08",
+    "storageBucket": "mpgt-42d08.appspot.com",
+    "messagingSenderId": "142062748568"
+  }
+}
